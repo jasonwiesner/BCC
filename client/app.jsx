@@ -64,7 +64,7 @@ class App extends React.Component {
         this.Chart();
       },
       error: (error) => {
-        console.log('error', error);
+        console.log('error', error)
       }
     });
   };
