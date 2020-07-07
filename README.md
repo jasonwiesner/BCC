@@ -6,7 +6,7 @@
 1. [Overview](#Overview)
 2. [Usage](#Usage)
 3. [Tech Stack](#Tech-Stack)
-4. [Copywright and License](#Copywright-and-License)
+4. [Copyright and License](#Copyright-and-License)
 
 ## Overview
 
