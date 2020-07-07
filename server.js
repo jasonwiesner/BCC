@@ -7,9 +7,6 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(express.static(Path.join(__dirname + '/public')));
 
-
-
-
 app.listen(PORT, () => {
   console.log(`listening on port ${3000}`);
 });
