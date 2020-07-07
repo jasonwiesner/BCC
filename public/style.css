@@ -1,0 +1,45 @@
+h2 {
+  background-color: rgb(2, 212, 2);
+  text-align: center;
+  padding: 3px;
+}
+
+#chartContainer {
+  display: flex;
+  margin-left: 100px;
+  height: 1000px;
+  width: 1000px;
+  padding: 10px 0px 0px 110px;
+}
+
+#poweredByText {
+  padding: 15px 10px 0px 0px;
+  text-align: right;
+  font-style: italic;
+}
+
+label#start {
+  margin-left: 205px;
+}
+
+label#end {
+  margin-left: 205px;
+}
+
+input#start {
+  margin-left: 5px;
+}
+
+input#end {
+  margin-left: 9px;
+}
+
+input {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+button {
+  margin-top: 5px;
+  margin-left: 204px;
+}
